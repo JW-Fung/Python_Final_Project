@@ -17,7 +17,7 @@
 * 头发还在还能学，没有头发继续学
 * 认真，学习，优秀。
 # 联系方式
-![微信二维码](图片地址 ''微信二维码'')
+![微信二维码](https://github.com/JW-Fung/Python_Final_Project/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20191218184743.png?raw=true ''微信二维码'')
 * 电话：13138639701
 * 邮箱1264383318@qq.com
 * QQ：1264383318
